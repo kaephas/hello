@@ -1,2 +1,2 @@
 # hello
-My first Fat-Free skim
+My first Fat-Free project
